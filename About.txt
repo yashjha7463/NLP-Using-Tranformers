@@ -1,0 +1,10 @@
+Python version used :
+
+3.7.12 | packaged by conda-forge | (default, Oct 26 2021, 06:08:53) 
+[GCC 9.4.0]
+
+course link : https://apps.cognitiveclass.ai/learning/course/course-v1:IBM+GPXX0AIAEN+v1/home
+
+
+store the models in cashe location or else it will doenload model of size 5.5 GB total , cashe location 
+:  C:\Users\yashj\.cache\huggingface\hub
